@@ -22,7 +22,8 @@ let City;
 // object
 
 
-console.log(typeof(null)); // ans - object
-console.log(typeof(undefined)); // ans - undefined
-console.log(typeof(12223713137743n)); // ans - bigint
+// console.log(typeof(null)); // ans - object
+// console.log(typeof(undefined)); // ans - undefined
+// console.log(typeof(12223713137743n)); // ans - bigint
+// console.log(typeof("")); // ans - string
 
